@@ -1,7 +1,3 @@
-### ✅ **`README.md` for Your React Application**
-
----
-
 ### 📌 **Project Title**
 # 🚀 **EmployWise - User Management System**
 
