@@ -1,4 +1,8 @@
+### ✅ **`README.md` for Your React Application**
 
+---
+
+### 📌 **Project Title**
 # 🚀 **EmployWise - User Management System**
 
 ---
@@ -149,6 +153,10 @@ npm run build
 - Vercel
 - GitHub Pages
 
+✅ **Vercel Deployment:**
+The project is deployed on Vercel. You can view it live at:
+[EmployWise on Vercel](https://employ-wise-assignment-nu.vercel.app/)
+
 ---
 
 ### 🙌 **Contributing**
@@ -170,7 +178,6 @@ This project is licensed under the MIT License.
 
 ---
 
-### ✅ **Screenshots**
-📌 *Add screenshots here to visually demonstrate the features.*
 
----
+
+
